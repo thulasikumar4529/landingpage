@@ -1,3 +1,4 @@
 # landingpage
-# created by internship
-#  for technohacks
+# for internship
+# from technohacks
+# task 1
